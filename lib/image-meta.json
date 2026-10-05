@@ -1,0 +1,157 @@
+{
+  "/images/gallery/exhibition.jpg": {
+    "width": 1080,
+    "height": 1080,
+    "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJQBOgMXhfvypC2AAAP5YkTZrrIVHRiZxn839qqagFmXaIlZQ25kul0/ZCpEF07of4bAy6kbsEP64+YPJ/l6RvN9Rzwg0X8fAOEyM90ynHuYw8J+NKqycYAD4zcxu5qPAAA=="
+  },
+  "/images/gallery/sign.jpg": {
+    "width": 1073,
+    "height": 665,
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAoAA4BaJQBdj+ACBJJC25EAAPv/oOtb3W+7fV4e/yKk8jhpD+8nZWS2ZoQGiMsM97eshvwq5cxgoCIC7L0i+nw4gJb5oZk/mYsbFRsE2AAA"
+  },
+  "/images/gallery/teak-block-stock.jpg": {
+    "width": 843,
+    "height": 474,
+    "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAkAA4BaJQBOgBhtuD514AD+zF5YLuDeR/CqpfJk6lXBuEPVgjXm8E2L0/KwYcTDL8wocAPcOF4xdo+orUmkyggAAA=="
+  },
+  "/images/hero/garden-display.jpg": {
+    "width": 648,
+    "height": 331,
+    "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoQAAgAA4BaJZQCxC8AGYl3N9RpgAD766GXUzaPFmJPrP90QrnIscNaNRZmN0/kxjEUlo8EVsY7X058pKNoX2pwqwOJoAAA"
+  },
+  "/images/hero/workshop-stock.jpg": {
+    "width": 1280,
+    "height": 655,
+    "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAgAA4BaJZQC7AEfZoVQABCAAP7I/oAa9c/MYF/rSsYZW7M2AAQgE1tvoiYHq4UyUhnnb6bYVZZFjNiAmwAA"
+  },
+  "/images/hero/workshop-yard.jpg": {
+    "width": 1280,
+    "height": 655,
+    "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAgAA4BaJZQAAxOf5X+UwAD+qhgq1ZLoBekZvCI0JulH07i7f48YivHHY48Wgr4w2c7wHE5Nu/UaAAA="
+  },
+  "/images/products/decoration/candle-holder.jpg": {
+    "width": 430,
+    "height": 720,
+    "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwBACdASoQABsAPu1iqU2ppaOiMAgBMB2JQBOmUAXoAzNqJ0RZfc3TK7816+joAP7nbC53BH43ZoSj7Lb1OxWFfuR0b2UQT5m6LXgOj9dxZ42HBruJ0+ePoc0P8B+7A5OyyxbXAR16ECGUGDfGWol7wVryjNJxtGhQbXtAgFysIFr0x+tfJEgqNHnYePJ6/uH/TwAA"
+  },
+  "/images/products/decoration/carved-bowl.jpg": {
+    "width": 324,
+    "height": 314,
+    "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQABAAA4BaJaACdADcgMTKAAD+4d8NOQWlXnMQd8Kgyw8zIHh9fxUW0RI32g9Z+51CMRoBhap9wFAXMFsUUY8tTP8r5zRL1qIb4sZMezbHG8J6SWgAAA=="
+  },
+  "/images/products/decoration/driftwood-root-sculpture.jpg": {
+    "width": 318,
+    "height": 612,
+    "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAACQBACdASoQAB8APu1mq04ppaQiMAgBMB2JZQC2ymwAex6tJMU6v+tlAqIfRoAA/sauAGAEm9Q2NR+5vVEE30+W8orppaOn62cfQkmEtMd7naKfmS6+v/clAtJt1w3CNZTr8Euuj5NlypcWwBTS2dYsn0iyD8IDYB8MlBKsrxwHeeONPcIAngAA"
+  },
+  "/images/products/decoration/horse-head-sculpture.jpg": {
+    "width": 405,
+    "height": 544,
+    "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAwCdASoQABYAPu1iqk2ppaQiMAgBMB2JYgAAQnhywlXfEHA9j9AA/lKI8CPdO8gegNVsJHVd+TDDpIA9H0mvaXdRbDtEZC/A6NVL5M6zAiZupEloU6/2RHE2YX7OCxBXAvp5cFNsAOw7h3+Y0PXerqUnZOW5vUcp8fjOJPFBpnuAm5+BShPkLJLhGq6jNvZnAAAA"
+  },
+  "/images/products/decoration/large-teak-bowl.jpg": {
+    "width": 592,
+    "height": 383,
+    "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAoAA4BaJaACdADy7+gRgAD+x4IRj4agmIynQIi0IW1fbu93bw53A7wM7/MAjOLPDxbIHhRUG9VcfKjD5WpARfkgkdeSVyp2xPINJ3PT57eAAAA="
+  },
+  "/images/products/decoration/root-art-sculpture.jpg": {
+    "width": 223,
+    "height": 356,
+    "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAADQBACdASoQABoAPu1iqU2ppaOiMAgBMB2JZACdMoC4AAu6M3wOcqG+zLJRP9P8AAD+AGXVjagHqpeIQ5YKIF95yMzata0054SmPzgcJbiDX/pSzU2iGLy7WMQ4IFvzaP4P7PNnxc2k4tfN9/oSyPiP3aGtBZiGmuSe2+foFN1m9vvy6A78RnifH0fcYaPtRzdHoTRBFNRl5pavEshYnajWf/McXpaxo3WmAAAA"
+  },
+  "/images/products/decoration/root-candle-sculpture.jpg": {
+    "width": 430,
+    "height": 720,
+    "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAABwBACdASoQABsAPu1iqU2ppaOiMAgBMB2JZQCdAYvMqlZbFzVmd1VCLYq5AADNcFoiXOI3VrzW8g4pi7rFk/ACussulvG/s1Rkafvge4Nuzclu4bEMS+VElpzWKGXooxw2O5JVHXJIrYtIB24Erqle6UwnM1tScTqLvS8Unb7+Z+ANbt29jDepWYGBB38xHO+Ev6PC+n/N0HBOnQTQTwS8xA/GWcOXXkYRVecACny8almJ5XUbDZ0nevw+YP7Ng7kBfkAAAAA="
+  },
+  "/images/products/decoration/root-frame-mirror.jpg": {
+    "width": 283,
+    "height": 634,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABwBACdASoQACQAPu1mqU6ppaOiKqwBMB2JQBYj5fg92MD4dfQzL/pQ3WOjcgD+wH+x1PGt3nZ0seS7JFUNamFKKSU7i8QsGfYDMGk5qTVVyYPkGemn2R0eHHRBIarie1DU+LNoFbJana/myojDnWRvuzrUDgyLHlKwx2x4HYMinIDZMJ7fwZITOdnx0t07qMDyjSA5e2/Pg6oozRJEP3k2OP0GRTc/XFuTEZ2sUeUfcS7s5JEOFSzXiGJ+MY6/MNSzgAAA"
+  },
+  "/images/products/decoration/root-ring-sculpture.jpg": {
+    "width": 726,
+    "height": 761,
+    "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JZwC7ABeA/qKE9zsK/AAA/vBB7ZE+u8wUbfjC6NNzgosLitS+WRk8iA1n/tJzljQ1GX4mjBIi7NvNE9QFzB03D2ceqajo294RnxoyvD/rja291PpC57v+K1zMHLH1sgPvAAAA"
+  },
+  "/images/products/decoration/root-tealight-holder.jpg": {
+    "width": 376,
+    "height": 515,
+    "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoQABYAPu1iqU2ppaOiMAgBMB2JQBOmUAS1Qsc3KXaeZZ0j//xukhaQAP6O8s1TF5eFqXU6fgTEdRyzzvgZsu6HH2LMmcPJK24hyf9gp8DTxdKC3ST9Vtko9WVupVamzEuS1ECsgSK9V+nl9wYRrwXy64FB99B16gmy3kZRtFu33Obd137uAy8dnG48UuHAuhIDnCTmEnzvTQdEQ2jzQIVyEKB3fyhzGA9jFbs1u4AAAA=="
+  },
+  "/images/products/decoration/round-bowl.jpg": {
+    "width": 316,
+    "height": 276,
+    "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAA4AA4BaJYgCdAEWNMF+QADNZf5FbmfyLdbnT1YNiJduD9n6UM1v00qEZlOmJ3B5vC2JS1dvrANqxGp9V/CWlAAAAA=="
+  },
+  "/images/products/decoration/round-root-mirror.jpg": {
+    "width": 685,
+    "height": 691,
+    "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoQABAAA4BaJbACdAYwTlWamRRo1+jpgAD+4eEwpugPkHEKdCBFN3BTNbTH5pNjLregQRRPKP6AgqD/4x0rNeeHRRpErzekQrwPXX3IvFnq4kdnfYijXH2das5TND2yc1elm+8T5r/y4AAA"
+  },
+  "/images/products/decoration/stacked-teak-tray.jpg": {
+    "width": 405,
+    "height": 435,
+    "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoQABEAPu1iqU2ppaOiMAgBMB2JZwCdMoADgeT3bjrDBidQQAD9vgdVWATDHKmY8YMg8uQKlSf+twrevD0bT9ZzIwy6oXRD0NDm/IlPiDOgdKpL32gAAA=="
+  },
+  "/images/products/decoration/tall-teak-vase.jpg": {
+    "width": 236,
+    "height": 600,
+    "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACwBACdASoQACkAPu1irE2ppaSiKqwBMB2JZQC3uBI816JlRgNgCQoYzZpdP0QAAP5mKkpzFLHUtVPbE14XPFeiS+vWAP9O6FmQLMMF3hgsDbSXKdrYUT0hNB6ADyk0aL4G+6i52SOsn3tXMp6kJpIZO7gt4Td3fAcdYqvLcht/4B9EZsLzMHiEbO51LYaOf35nNfY7a8iCPNhSNxlYZao+AAA="
+  },
+  "/images/products/decoration/teak-lantern.jpg": {
+    "width": 243,
+    "height": 409,
+    "blur": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABwBACdASoQABsAPu1iqU2ppaQiMAgBMB2JYgCdAYy81aZBJOaQeB0Zk0pDAAD+X2BLblLqn4mM/+Mb+MqyyRdrhtr1OPiAbNvanOhTi7uTaY2gtYZcHvdJUJKj39DlmoLoySlAjULw+gHGiablbSBhPecesw4/CAszkX488QXRWXU5SG03RTeAvwL1ux/5IHb2cjIHP/rALbwIocrN/W7pK1HwBVtlsjFbbA1AAAA="
+  },
+  "/images/products/decoration/teak-pedestal.jpg": {
+    "width": 290,
+    "height": 465,
+    "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABwBACdASoQABoAPu1iqU2ppaQiMAgBMB2JagCdMoR4GB+1aRtadCeF7NwRQAD+4apJupG5YOTTENZvVOLRAgUZtk8iSkI6dhV6+6E1wsvwhhA5009GD6GYLAnI2UiSz4+ViW7lHJCe5ssqRS4L2R3KHJXpQ0x7pMcme74vQeiJrxuTP0wDCfuEAUhuUKZ3eBJ6rLAzLLQAAA=="
+  },
+  "/images/products/decoration/teak-vase.jpg": {
+    "width": 405,
+    "height": 362,
+    "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwAgCdASoQAA4AA4BaJYwCdAdwLeR7QLxBHnfD7gAA/qFrWqViO3Z/EhR+XgRR3iooufR8byRr2R3QjEyTC+KwYw8KUk0S7v88QhiRcUUyPnQJaHZkEindDlroBHukH7WroPapqAYxkO7sOwcg0XJS+XbZV4KAAAA="
+  },
+  "/images/products/tables/beam-coffee-table.jpg": {
+    "width": 430,
+    "height": 471,
+    "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAwCdASoQABIAPu1iqU2ppaOiMAgBMB2JYgCdICXCbc7OPT28duXwAP38BGy2/0NwNUUwMXaVMsY+/mUJtv8F5xlsQEUcK+GrPlUIr4QPt2LWrtBz/U/RZDHs1vTkAAA="
+  },
+  "/images/products/tables/branch-console.jpg": {
+    "width": 430,
+    "height": 514,
+    "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAwBACdASoQABMAPu1iqU2ppaOiMAgBMB2JZwCo9Bb3wV9akBlslGHNBgAA/om7+BiAaNNsgmQNaJyiKQnBX715mmY0FcfdVjz4oZN7lgAHADHPdAzBwFcKelhCJV7oTdhCZQ2/F/qWaCZBH/xysKXN/8TjBDjhISvz6ZhrR4AAAA=="
+  },
+  "/images/products/tables/branch-side-table.jpg": {
+    "width": 430,
+    "height": 482,
+    "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoQABIAPu1iqU2ppaOiMAgBMB2JYwCdACPo+LBzQabPGhBdbAD+YT8uCNNCqvI8ffaY4fcnwxr+Fl3FdnJ5wRXCt/IHbH/6lAEykb3Qei45xj/9UZz7GgBq8WHfLkOv8c1A7NLlvImgQcB6DwAAAA=="
+  },
+  "/images/products/tables/hollow-slab-console.jpg": {
+    "width": 430,
+    "height": 356,
+    "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoQAA0AA4BaJYgCdAYuH2wolhtoilIAAP7rwfD9xagxa6VC4/qOCRFO3Dk/TcHE42ntwagzSo4rgt2118yQbDEmIMrofc0BQOLwmIDL0lzRmt5Uf9sS4/F3/iLjGIL8w3icVfJcCJFdl0QU2AA="
+  },
+  "/images/products/tables/root-bench.jpg": {
+    "width": 738,
+    "height": 568,
+    "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoQAAwAA4BaJaACdAYrJwleolaqfKPsAP7wtWi7yhZC876jfekmvl4XK3utuYoxoAXFsUyZuzgXnuFKd9qftXT8/CsG0XGjB1Eg5HgV+YtGXzEUDk/n+ybHOViNVj9pQQWhO8DGpK5evWTgpJ5Dv/dTd6r5x7aBz/pQAAAA"
+  },
+  "/images/products/tables/root-block-table.jpg": {
+    "width": 405,
+    "height": 427,
+    "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQAwCdASoQABEAPu1iqU2ppaOiMAgBMB2JQBOgA6RnYQhgvpf5/+AA+kaLXsxUnmWFLxC83eCw6Xlt2oA949KiorEmJxYS4Lye31P2tbWSYvlsE5I0ar5q60W0CjZF4kEMhZ3PEZ8yz91YAAA="
+  },
+  "/images/products/tables/round-branch-stool.jpg": {
+    "width": 235,
+    "height": 332,
+    "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAwCdASoQABcAPu1iqU2ppaOiMAgBMB2JYwCw7B1/+QaifolzPKSgAP7Q7582AmZu1SIVFdSqDVyzgg+FmH1tjDvzKwVXtqpBs/HQ0yhghwWDZDKeIa+enWtqepes6jpfQS2ooLBgxavOXFB60S4yI1AAAA=="
+  },
+  "/images/products/tables/teak-block-stool.jpg": {
+    "width": 654,
+    "height": 741,
+    "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAACQBACdASoQABIAPu1iqU2ppaOiMAgBMB2JQBYfv/xbCbJSX0IKMM7dtbklLgAA/vBJ9G8ZFrhXzqjof/Pt9ycqSwIHtMIjVc23tO9YUgO6nn9HCS8OFRx8aQ+BytFbr9fKaNXn32jZonNgv15kZI1DjJ+HnLk63WUOgJX57cjG+z8o7222i/6xMi2VX+bPyM17PUcGMAGYK1igAAA="
+  }
+}
