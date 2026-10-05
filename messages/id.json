@@ -1,0 +1,710 @@
+{
+  "meta": {
+    "siteName": "CV. Teak & Deko Indonesia",
+    "titleTemplate": "%s | CV. Teak & Deko Indonesia",
+    "defaultDescription": "Produsen furniture jati di Yogyakarta. Meja, stool, dan dekorasi natural dari kayu sisa dan kayu daur ulang jati serta trembesi, diekspor ke Eropa, Amerika Serikat, dan Timur Tengah.",
+    "home": {
+      "title": "Produsen Furniture Jati Yogyakarta | Mebel Kayu Daur Ulang Ekspor — Teak & Deko",
+      "description": "CV. Teak & Deko Indonesia memproduksi furniture dan dekorasi natural dari kayu sisa dan kayu jati daur ulang di Bantul, Yogyakarta. Furniture ekspor Indonesia ke Eropa, Amerika Serikat, dan Timur Tengah."
+    },
+    "about": {
+      "title": "Tentang Kami — Pemasok Furniture Ramah Lingkungan di Yogyakarta",
+      "description": "Sejak 2016 CV. Teak & Deko Indonesia mengubah akar, tunggak, dan potongan kayu jati yang terbuang menjadi furniture natural. Baca kisah, misi, visi, dan sejarah kami dari 2010 hingga kini."
+    },
+    "collections": {
+      "title": "Koleksi — Furniture & Dekorasi Jati Natural",
+      "description": "Lihat koleksi grosir kami: meja akar jati, stool, konsol, cermin, lentera, mangkuk, vas, dan patung, dibuat tangan dari kayu sisa dan kayu daur ulang di Indonesia."
+    },
+    "howToOrder": {
+      "title": "Cara Memesan — Grosir Furniture Jati dari Indonesia",
+      "description": "Pesan furniture jati natural dalam tiga langkah: pilih produk atau minta e-katalog, kirim permintaan lewat WhatsApp atau email, lalu konfirmasi detail dan kami kirim kontainer Anda."
+    },
+    "exportInfo": {
+      "title": "Informasi Ekspor — Furniture Kayu Daur Ulang dari Indonesia",
+      "description": "Detail ekspor untuk pembeli internasional: pasar, material, MOQ, pelabuhan muat, syarat pembayaran, sertifikat, pengiriman, dan informasi kontainer dari CV. Teak & Deko Indonesia."
+    },
+    "gallery": {
+      "title": "Galeri — Workshop, Produk & Display Taman",
+      "description": "Foto dari workshop kami di Bantul, Yogyakarta: furniture akar jati, dekorasi, stok kayu, display taman, dan pameran."
+    },
+    "faq": {
+      "title": "FAQ — Pertanyaan Seputar Grosir Furniture Jati",
+      "description": "Jawaban tentang material, proses pemesanan, MOQ, pengiriman, syarat pembayaran, pesanan custom, waktu produksi, sertifikat, dan kunjungan ke workshop furniture jati kami di Yogyakarta."
+    },
+    "contact": {
+      "title": "Kontak — Minta Penawaran atau E-katalog",
+      "description": "Hubungi CV. Teak & Deko Indonesia di Bantul, Yogyakarta. Kirim permintaan, minta e-katalog, atau chat WhatsApp dengan Agung Edi Dahono atau Ely Ratna Wulandari."
+    },
+    "requestCatalog": {
+      "title": "Minta E-katalog Kami",
+      "description": "Minta e-katalog CV. Teak & Deko Indonesia berisi meja akar jati, stool, dan dekorasi terbaru. Gratis untuk pembeli grosir, dikirim lewat email atau WhatsApp."
+    },
+    "product": {
+      "description": "{name} — {summary} Dibuat tangan oleh CV. Teak & Deko Indonesia di Yogyakarta. Minta penawaran grosir."
+    },
+    "category": {
+      "tables-and-stools": {
+        "title": "Grosir Meja & Stool Jati — Kayu Akar & Daur Ulang",
+        "description": "Meja jati natural grosir dari Indonesia: meja kopi blok akar, stool blok jati, konsol, bangku, dan meja samping dari kayu sisa dan kayu jati daur ulang."
+      },
+      "decoration": {
+        "title": "Grosir Dekorasi Kayu Jati — Cermin, Lentera & Mangkuk",
+        "description": "Dekorasi jati natural dari Indonesia: patung cincin akar, cermin bingkai akar, lentera jati, vas, mangkuk ukir, pedestal, dan tempat lilin."
+      }
+    },
+    "notFound": {
+      "title": "Halaman tidak ditemukan"
+    }
+  },
+  "nav": {
+    "home": "Beranda",
+    "collections": "Koleksi",
+    "about": "Tentang",
+    "howToOrder": "Cara memesan",
+    "exportInfo": "Info ekspor",
+    "gallery": "Galeri",
+    "faq": "FAQ",
+    "contact": "Kontak",
+    "requestCatalog": "Minta e-katalog",
+    "mainLabel": "Navigasi utama",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu"
+  },
+  "common": {
+    "skipToContent": "Langsung ke konten",
+    "askQuote": "Minta penawaran",
+    "viewDetails": "Lihat detail",
+    "viewCollection": "Lihat koleksi",
+    "requestCatalog": "Minta e-katalog",
+    "chatWhatsApp": "Chat via WhatsApp",
+    "contactUs": "Hubungi kami",
+    "learnMore": "Selengkapnya",
+    "bestSeller": "Terlaris",
+    "logoAlt": "Logo CV. Teak & Deko Indonesia",
+    "language": "Bahasa",
+    "switchTo": "Ganti bahasa ke {language}",
+    "languages": {
+      "en": "English",
+      "id": "Bahasa Indonesia"
+    },
+    "themeLight": "Ganti ke mode terang",
+    "themeDark": "Ganti ke mode gelap",
+    "breadcrumb": "Breadcrumb",
+    "productAlt": "{name} — dibuat tangan dari kayu jati natural oleh CV. Teak & Deko Indonesia",
+    "productsCount": "{count, plural, other {# produk}}"
+  },
+  "whatsapp": {
+    "defaultMessage": "Halo, saya tertarik dengan produk Anda. Bisakah Anda mengirimkan e-katalog?",
+    "productMessage": "Halo, saya tertarik dengan {product}. Bisakah Anda mengirimkan detail lebih lanjut?",
+    "floatingLabel": "Chat dengan kami di WhatsApp"
+  },
+  "home": {
+    "hero": {
+      "label": "Furniture natural dari Yogyakarta, Indonesia",
+      "title": "Furniture berharga dari kayu yang dulu terbuang.",
+      "subtitle": "Kami mengubah akar jati, tunggak, dan kayu bekas — kayu yang biasanya dibuang atau dibakar — menjadi meja, stool, dan dekorasi untuk pembeli di Eropa, Amerika Serikat, dan Timur Tengah.",
+      "ctaPrimary": "Lihat koleksi",
+      "ctaSecondary": "Minta e-katalog",
+      "scroll": "Gulir untuk melihat",
+      "imageAlt": "Halaman workshop Teak & Deko Indonesia di Bantul dengan atap ilalang dan tumpukan kayu jati bekas"
+    },
+    "trust": {
+      "label": "Mengapa pembeli memilih kami",
+      "items": {
+        "export": {
+          "title": "Siap ekspor",
+          "text": "Pengiriman kontainer ke Eropa, Amerika Serikat, dan Timur Tengah sejak 2010."
+        },
+        "material": {
+          "title": "Kayu sisa & daur ulang",
+          "text": "Akar jati, tunggak, dan kayu bekas — bukan pohon yang baru ditebang."
+        },
+        "eco": {
+          "title": "Ramah lingkungan & fair trade",
+          "text": "Memberi penghasilan bagi pengumpul, sopir truk, pekerja, dan perajin."
+        },
+        "visit": {
+          "title": "Kunjungi workshop",
+          "text": "Lihat stok dan display taman kami di Bantul, Yogyakarta."
+        }
+      }
+    },
+    "about": {
+      "label": "Tentang kami",
+      "title": "Workshop di Bantul tempat kayu tak berguna menjadi berharga",
+      "text1": "CV. Teak & Deko Indonesia membeli dan memproduksi furniture serta dekorasi natural — meja, kursi, dekorasi dinding, dekorasi taman, dan interior — untuk ekspor ke Eropa, Amerika Serikat, Timur Tengah, serta pasar lokal Indonesia.",
+      "text2": "Sebagian besar material kami adalah kayu sisa dan kayu daur ulang: kebanyakan jati, dan juga trembesi. Setiap akar, tunggak, dan potongan kayu punya bentuknya sendiri, sehingga setiap produk yang keluar dari workshop kami tidak ada duanya.",
+      "cta": "Baca kisah kami",
+      "signAlt": "Papan nama kayu ukir Teak & Deko Indonesia di antara tanaman tropis di pintu masuk workshop",
+      "workshopAlt": "Gudang workshop terbuka dengan papan jati bekas dan potongan akar bersandar di dinding",
+      "since": "Resmi berdiri",
+      "sinceDate": "19 April 2016"
+    },
+    "collections": {
+      "label": "Koleksi",
+      "title": "Dua lini, ratusan produk unik",
+      "intro": "Mulailah dari lini yang cocok untuk toko atau proyek Anda. Setiap produk bisa ditawar satuan atau digabung dalam satu kontainer."
+    },
+    "story": {
+      "label": "Dari limbah menjadi karya",
+      "title": "Perjalanan sebuah akar jati",
+      "steps": {
+        "collect": {
+          "title": "Dikumpulkan, bukan ditebang",
+          "text": "Akar jati, tunggak tua, dan potongan kayu dikumpulkan oleh pengumpul lokal — material yang biasanya dibuang, dibakar, atau dijual sebagai kayu bakar.",
+          "imageAlt": "Deretan blok akar jati solid yang dikeringkan di gudang workshop"
+        },
+        "workshop": {
+          "title": "Dibawa ke workshop kami",
+          "text": "Sopir truk membawa kayu ke halaman kami di Pajangan, Bantul. Di sana kayu dipilah menurut ukuran, bentuk, dan karakter, lalu dikeringkan.",
+          "imageAlt": "Workshop di Bantul dengan papan dan akar jati bekas ditumpuk di luar"
+        },
+        "create": {
+          "title": "Dibentuk dengan tangan",
+          "text": "Perajin kami membersihkan, memotong, mengamplas, dan merakit setiap produk dengan tangan, tetap mempertahankan retakan, serat, dan bentuk alami yang membuatnya unik.",
+          "imageAlt": "Meja konsol jati dengan kaki dari ranting jati alami"
+        },
+        "ship": {
+          "title": "Dikirim sampai ke tujuan Anda",
+          "text": "Produk jadi dikemas dan dimuat ke kontainer untuk pembeli di Eropa, Amerika Serikat, dan Timur Tengah — dan juga dipamerkan di berbagai pameran.",
+          "imageAlt": "Booth pameran dengan meja jati, bangku, dan dekorasi ranting karya Teak & Deko"
+        }
+      }
+    },
+    "markets": {
+      "label": "Ekspor ke seluruh dunia",
+      "title": "Dipercaya pembeli di tiga benua",
+      "stats": {
+        "since": { "value": "2010", "label": "Mengelola kontainer ekspor sejak" },
+        "founded": { "value": "2016", "label": "CV. Teak & Deko Indonesia berdiri" },
+        "markets": { "value": "4", "label": "Pasar: Eropa, AS, Timur Tengah, Indonesia" },
+        "woods": { "value": "2", "label": "Kayu utama: jati dan trembesi" }
+      }
+    },
+    "bestSellers": {
+      "label": "Terlaris",
+      "title": "Produk yang sering dipesan ulang",
+      "cta": "Lihat semua produk"
+    },
+    "ctaBand": {
+      "title": "Dukung bumi — beli produk kayu daur ulang.",
+      "text": "Kunjungi gudang kami, atau hubungi kami untuk produk-produk kami. Kami membalas lewat WhatsApp dan email.",
+      "primary": "Minta e-katalog",
+      "secondary": "Chat via WhatsApp"
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "Tentang kami",
+      "title": "Kami memberi kayu terbuang kehidupan kedua",
+      "subtitle": "CV. Teak & Deko Indonesia adalah perusahaan furniture dan dekorasi natural di Bantul, Yogyakarta, yang berdiri pada 19 April 2016.",
+      "imageAlt": "Halaman workshop Teak & Deko dengan pondok beratap ilalang dan kayu bekas"
+    },
+    "story": {
+      "label": "Kisah kami",
+      "title": "Furniture natural untuk ekspor sejak 2016",
+      "p1": "CV. Teak & Deko Indonesia adalah perusahaan yang membeli dan memproduksi furniture serta dekorasi natural: meja, kursi, dekorasi dinding, dekorasi taman, dan dekorasi interior. Kami mengekspor ke Eropa, Amerika Serikat, dan Timur Tengah, serta melayani pasar lokal Indonesia.",
+      "p2": "Sebelum perusahaan berdiri, tim kami selama enam tahun mengelola kontainer para pembeli yang dikirim dari Indonesia ke negara mereka. Pengalaman itu — memahami kebutuhan pembeli internasional, cara memuat kontainer, dan cara menjaga kualitas tetap konsisten — menjadi dasar dari semua yang kami kerjakan hari ini.",
+      "p3": "Sebagian besar material kami adalah kayu sisa dan kayu daur ulang. Kebanyakan jati, dan kami juga memakai kayu trembesi. Daripada membiarkan kayu ini apa adanya atau berakhir sebagai kayu bakar, kami mengubah kayu tak berguna menjadi kayu berharga dengan menciptakan banyak produk darinya.",
+      "gardenAlt": "Display taman berisi furniture akar jati di bawah pepohonan tropis dengan gazebo beratap ilalang"
+    },
+    "mission": {
+      "label": "Yang menggerakkan kami",
+      "title": "Misi, visi, dan nilai",
+      "mission": {
+        "title": "Misi",
+        "text": "Mengurangi pemanasan global dan mengurangi perusakan hutan."
+      },
+      "vision": {
+        "title": "Visi",
+        "text": "Menjalankan bisnis dengan konsep ramah lingkungan dan fair trade."
+      },
+      "values": {
+        "title": "Nilai",
+        "text": "Produk kami memakai kayu sisa dan kayu daur ulang yang biasanya dibuang, dibakar, atau dijadikan kayu bakar. Mengubahnya menjadi produk berharga memberi penghasilan bagi pengumpul material, sopir truk, pekerja, dan perajin."
+      }
+    },
+    "timeline": {
+      "label": "Sejarah",
+      "title": "Dari mengelola kontainer hingga merek sendiri",
+      "items": {
+        "y2010": {
+          "year": "2010 – 2016",
+          "title": "Mengelola kontainer pembeli",
+          "text": "Mengelola kontainer para pembeli yang dikirim dari Indonesia ke negara mereka."
+        },
+        "y2016": {
+          "year": "19 April 2016",
+          "title": "CV. Teak & Deko Indonesia dimulai",
+          "text": "Perusahaan resmi berdiri di Bantul, Yogyakarta."
+        },
+        "y2016b": {
+          "year": "2016 – 2020",
+          "title": "Perusahaan cabang untuk pembeli Jerman",
+          "text": "Mengelola pembeli dari Jerman sebagai perusahaan cabang."
+        },
+        "y2020": {
+          "year": "2020 – 2022",
+          "title": "Pandemi global",
+          "text": "Covid-19 menghentikan sebagian besar aktivitas; kami tetap mengerjakan pesanan kecil."
+        },
+        "y2022": {
+          "year": "2022 – sekarang",
+          "title": "Pembeli di Eropa dan Timur Tengah",
+          "text": "Bekerja untuk beberapa pembeli dari Eropa dan Timur Tengah — dengan semangat untuk terus berkarya, bekerja, dan memberikan yang terbaik."
+        }
+      }
+    },
+    "materials": {
+      "label": "Material",
+      "title": "Kayu yang kami olah",
+      "intro": "Kami tidak perlu menebang pohon yang sehat. Bahan baku kami adalah apa yang tersisa.",
+      "items": {
+        "rest": {
+          "title": "Kayu sisa",
+          "text": "Akar, tunggak, dan ranting yang tertinggal di tanah atau ladang setelah panen. Bentuknya yang meliuk dan organik menjadi meja, stool, dan dekorasi yang artistik."
+        },
+        "recycled": {
+          "title": "Kayu daur ulang",
+          "text": "Balok tua, papan, dan potongan kayu yang diberi fungsi baru sebagai daun meja, konsol, nampan, dan tempat lilin — dengan patina dari kehidupan pertamanya."
+        },
+        "teak": {
+          "title": "Jati",
+          "text": "Sebagian besar produk kami dari kayu jati (Tectona grandis): padat, berminyak alami, serta tahan cuaca dan serangga, cocok untuk dalam maupun luar ruangan."
+        },
+        "trembesi": {
+          "title": "Trembesi",
+          "text": "Trembesi (Samanea saman) memiliki slab lebar dan dramatis dengan serat terang-gelap yang kontras, dipakai untuk meja dan konsol yang mencolok."
+        }
+      }
+    },
+    "process": {
+      "label": "Produksi",
+      "title": "Di dalam workshop kami",
+      "text": "Mulai dari memilah stok bahan baku hingga pengamplasan akhir, setiap tahap dikerjakan di workshop kami di Pajangan, Bantul. Pembeli dipersilakan berkunjung, melihat stok, dan memilih produk secara langsung.",
+      "photos": {
+        "stock": "Blok akar jati yang sudah dipilah menunggu di gudang",
+        "yard": "Kayu bekas mentah disimpan di halaman workshop",
+        "exhibition": "Produk kami ditampilkan di booth pameran"
+      }
+    }
+  },
+  "collections": {
+    "hero": {
+      "label": "Koleksi",
+      "title": "Furniture & dekorasi natural",
+      "subtitle": "Setiap produk dibuat dari kayu sisa dan kayu daur ulang, sehingga tidak ada dua yang persis sama. Pilih lini, lalu minta penawaran untuk produk yang Anda suka."
+    },
+    "rangesLabel": "Lini kami",
+    "rangesTitle": "Pilih koleksi",
+    "allLabel": "Semua produk",
+    "allTitle": "Lihat semua produk",
+    "moreSoon": "Lini taman dan custom segera hadir — tanyakan stok terbaru kepada kami.",
+    "empty": "Belum ada produk yang cocok dengan filter ini. Coba filter lain atau tanyakan stok terbaru kepada kami."
+  },
+  "categories": {
+    "tables-and-stools": {
+      "name": "Meja & Stool",
+      "short": "Meja kopi blok akar, stool blok jati, konsol, bangku, dan meja samping.",
+      "long": "Blok akar jati solid, balok daur ulang, dan slab di atas kaki ranting alami. Setiap meja dan stool dibentuk oleh kayunya sendiri — produk yang kokoh dan jujur untuk ruang tamu, lobi, atau teras.",
+      "imageAlt": "Meja kopi blok akar jati dari potongan akar jati bekas yang saling mengunci"
+    },
+    "decoration": {
+      "name": "Dekorasi",
+      "short": "Patung cincin akar, cermin, lentera jati, vas, mangkuk, pedestal, dan tempat lilin.",
+      "long": "Dekorasi artistik dari akar dan potongan kayu jati: cermin bingkai akar, lentera, mangkuk cekung, vas, pedestal, dan tempat lilin yang menghadirkan kehangatan dan tekstur di interior maupun taman.",
+      "imageAlt": "Patung cincin akar jati bundar di atas dudukan logam hitam"
+    }
+  },
+  "filters": {
+    "label": "Filter produk",
+    "type": "Jenis",
+    "material": "Material",
+    "allMaterials": "Semua material",
+    "groups": {
+      "all": "Semua",
+      "tables-and-stools": "Meja & Stool",
+      "mirrors": "Cermin",
+      "lighting": "Lentera & Lampu",
+      "bowls-vases": "Mangkuk & Vas",
+      "sculpture": "Patung"
+    },
+    "types": {
+      "all": "Semua",
+      "coffee-table": "Meja kopi",
+      "side-table": "Meja samping",
+      "console": "Konsol",
+      "bench": "Bangku",
+      "stool": "Stool",
+      "mirror": "Cermin",
+      "lantern": "Lentera",
+      "candle-holder": "Tempat lilin",
+      "bowl": "Mangkuk",
+      "vase": "Vas",
+      "tray": "Nampan",
+      "sculpture": "Patung",
+      "pedestal": "Pedestal"
+    },
+    "materials": {
+      "teak-root": "Akar jati",
+      "recycled-teak": "Jati daur ulang",
+      "teak-branch": "Ranting jati",
+      "trembesi": "Trembesi"
+    }
+  },
+  "category": {
+    "catalogTitle": "Minta e-katalog untuk lini ini",
+    "catalogText": "Dapatkan seluruh lini {category} beserta foto stok terbaru dalam satu PDF — gratis untuk pembeli grosir.",
+    "catalogCta": "Minta e-katalog",
+    "otherRange": "Lihat juga",
+    "help": "Tidak menemukan yang Anda cari? Stok kami lebih banyak daripada yang bisa kami foto."
+  },
+  "product": {
+    "specs": "Spesifikasi",
+    "itemCode": "Kode item",
+    "dimensions": "Dimensi",
+    "material": "Material",
+    "category": "Kategori",
+    "origin": "Asal",
+    "originValue": "Bantul, Yogyakarta, Indonesia",
+    "uniqueNote": "Dibuat dari kayu sisa dan kayu daur ulang alami: setiap produk unik, dan bentuk, ukuran, serta seratnya bisa berbeda dari foto.",
+    "askQuote": "Minta penawaran",
+    "whatsapp": "Tanya via WhatsApp",
+    "inquiryLabel": "Permintaan penawaran",
+    "inquiryTitle": "Minta penawaran untuk produk ini",
+    "inquiryText": "Sebutkan jumlah dan negara tujuan Anda. Kami akan membalas dengan harga, ketersediaan, dan pilihan pengiriman.",
+    "related": "Produk terkait",
+    "relatedLabel": "Mungkin Anda juga suka",
+    "gallery": "Foto produk",
+    "showImage": "Tampilkan gambar {number}"
+  },
+  "howToOrder": {
+    "hero": {
+      "label": "Cara memesan",
+      "title": "Dari melihat-lihat hingga satu kontainer penuh dalam tiga langkah",
+      "subtitle": "Tanpa keranjang belanja, tanpa portal yang rumit. Bicara langsung dengan orang yang membuat furniture Anda."
+    },
+    "stepsLabel": "Prosesnya",
+    "stepsTitle": "Cara pemesanan",
+    "steps": {
+      "choose": {
+        "title": "Pilih produk Anda",
+        "text": "Lihat koleksi kami secara online, atau minta e-katalog berisi stok terbaru. Catat produk yang Anda suka, atau kirimkan foto barang yang Anda cari.",
+        "cta": "Lihat koleksi"
+      },
+      "inquire": {
+        "title": "Kirim permintaan Anda",
+        "text": "Kirim pesan lewat WhatsApp atau formulir permintaan lewat email: sebutkan produk, jumlah, dan negara tujuan. Kami membalas dengan harga, ketersediaan, dan pilihan.",
+        "cta": "Kirim permintaan"
+      },
+      "ship": {
+        "title": "Konfirmasi dan kirim",
+        "text": "Kami mengonfirmasi detailnya bersama — pilihan produk, ukuran, finishing, pengemasan, dan pembayaran. Setelah produksi dan pengecekan kualitas, kontainer Anda dimuat dan dikirim.",
+        "cta": "Baca info ekspor"
+      }
+    },
+    "faqLabel": "Perlu diketahui",
+    "faqTitle": "Pertanyaan seputar pemesanan",
+    "faq": {
+      "q1": {
+        "q": "Bisakah saya memesan satu produk saja?",
+        "a": "Kami terutama melayani pembeli grosir dan pengiriman kontainer. Minimum pemesanan kami adalah [MOQ]. Hubungi kami dengan kebutuhan Anda dan kami akan menyampaikan apa yang memungkinkan."
+      },
+      "q2": {
+        "q": "Bisakah saya melihat produk aslinya sebelum membeli?",
+        "a": "Bisa. Karena setiap produk unik, kami dapat mengirimkan foto produk yang benar-benar tersedia di stok sebelum Anda konfirmasi. Anda juga dipersilakan mengunjungi workshop kami di Bantul."
+      },
+      "q3": {
+        "q": "Bisakah meja dan dekorasi digabung dalam satu kontainer?",
+        "a": "Tanyakan kepada kami tentang penggabungan produk dari kedua lini dalam satu pengiriman. Kami membantu merencanakan komposisinya agar ruang kontainer terpakai dengan baik."
+      },
+      "q4": {
+        "q": "Bagaimana cara pembayarannya?",
+        "a": "Syarat pembayaran kami adalah [PAYMENT TERMS]. Detail pembayaran dikonfirmasi secara tertulis bersama pesanan akhir Anda."
+      }
+    },
+    "ctaTitle": "Siap memulai?",
+    "ctaText": "Kirimkan daftar keinginan Anda atau minta e-katalog. Kami membalas lewat WhatsApp dan email."
+  },
+  "exportInfo": {
+    "hero": {
+      "label": "Info ekspor",
+      "title": "Informasi untuk pembeli internasional",
+      "subtitle": "Semua yang Anda perlukan untuk merencanakan pesanan furniture dan dekorasi jati natural dari Indonesia."
+    },
+    "marketsLabel": "Pasar",
+    "marketsTitle": "Ke mana furniture kami dikirim",
+    "markets": {
+      "europe": {
+        "title": "Eropa",
+        "text": "Pasar terlama kami, termasuk bertahun-tahun menjadi perusahaan cabang untuk pembeli dari Jerman."
+      },
+      "usa": {
+        "title": "Amerika Serikat",
+        "text": "Furniture dan dekorasi kayu natural untuk toko dan proyek di Amerika."
+      },
+      "middleEast": {
+        "title": "Timur Tengah",
+        "text": "Pembeli aktif di Timur Tengah, untuk interior, perhotelan, dan taman."
+      },
+      "indonesia": {
+        "title": "Indonesia",
+        "text": "Kami juga melayani pembeli lokal, desainer, dan proyek di seluruh Indonesia."
+      }
+    },
+    "materialsLabel": "Material utama",
+    "materialsTitle": "Jati, trembesi, kayu sisa & daur ulang",
+    "materialsText": "Sebagian besar material kami adalah kayu sisa (akar, tunggak, ranting) dan kayu daur ulang (balok tua dan potongan kayu) — kebanyakan jati, dan juga trembesi.",
+    "termsLabel": "Ketentuan dagang",
+    "termsTitle": "Detail pesanan & pengiriman",
+    "terms": {
+      "moq": { "label": "Minimum pemesanan (MOQ)", "value": "[MOQ]" },
+      "port": { "label": "Pelabuhan muat", "value": "[PORT]" },
+      "payment": { "label": "Syarat pembayaran", "value": "[PAYMENT TERMS]" },
+      "certificates": { "label": "Sertifikat & dokumen", "value": "[CERTIFICATES]" },
+      "incoterms": { "label": "Incoterms", "value": "[INCOTERMS]" },
+      "leadTime": { "label": "Waktu produksi", "value": "[PRODUCTION TIME]" }
+    },
+    "shippingLabel": "Pengiriman",
+    "shippingTitle": "Kontainer dan pengemasan",
+    "shippingText": "Kami telah mengelola kontainer ekspor sejak 2010. Produk dikemas untuk melindungi tepi alami dan akar selama perjalanan laut yang panjang.",
+    "containers": {
+      "c20": {
+        "title": "Kontainer 20ft",
+        "text": "Sekitar 33 m³ — cocok untuk pesanan pertama atau campuran dekorasi dan meja kecil."
+      },
+      "c40": {
+        "title": "Kontainer 40ft",
+        "text": "Sekitar 67 m³ — pilihan paling umum untuk pesanan furniture rutin."
+      },
+      "c40hc": {
+        "title": "40ft high cube",
+        "text": "Sekitar 76 m³ — ruang ekstra tinggi untuk produk jangkung seperti patung akar dan meja bertumpuk."
+      }
+    },
+    "containerNote": "Volume adalah kapasitas internal pada umumnya; jumlah muatan tergantung kombinasi produk. Kami merencanakan pemuatan bersama Anda.",
+    "ctaTitle": "Rencanakan pengiriman bersama kami",
+    "ctaText": "Kirimkan pelabuhan tujuan dan produk yang Anda minati, dan kami akan menyiapkan penawaran."
+  },
+  "gallery": {
+    "hero": {
+      "label": "Galeri",
+      "title": "Di dalam Teak & Deko",
+      "subtitle": "Workshop, stok kayu, display taman, dan produk yang kami buat — langsung dari Bantul, Yogyakarta."
+    },
+    "filters": {
+      "all": "Semua",
+      "products": "Produk",
+      "workshop": "Workshop",
+      "display": "Taman & pameran"
+    },
+    "photos": {
+      "sign": {
+        "alt": "Papan nama kayu ukir bertuliskan Teak & Deko Indonesia di workshop",
+        "caption": "Selamat datang di Teak & Deko"
+      },
+      "yard": {
+        "alt": "Halaman workshop dengan pondok beratap ilalang, furniture, dan kayu bekas",
+        "caption": "Halaman workshop kami di Bantul"
+      },
+      "stock": {
+        "alt": "Gudang workshop dengan papan jati bekas dan potongan akar",
+        "caption": "Stok kayu mentah"
+      },
+      "blocks": {
+        "alt": "Deretan stool blok akar jati yang disimpan di gudang",
+        "caption": "Blok akar jati di gudang"
+      },
+      "garden": {
+        "alt": "Display taman berisi meja akar jati dan dekorasi di bawah pepohonan tropis",
+        "caption": "Display taman kami"
+      },
+      "exhibition": {
+        "alt": "Booth pameran dengan meja jati, bangku, dan dekorasi ranting",
+        "caption": "Di pameran"
+      }
+    },
+    "lightbox": {
+      "label": "Penampil gambar",
+      "close": "Tutup",
+      "previous": "Gambar sebelumnya",
+      "next": "Gambar berikutnya",
+      "zoomIn": "Perbesar",
+      "zoomOut": "Perkecil",
+      "open": "Buka gambar: {caption}",
+      "counter": "{current} dari {total}"
+    }
+  },
+  "faq": {
+    "hero": {
+      "label": "FAQ",
+      "title": "Pertanyaan yang sering diajukan",
+      "subtitle": "Semua yang biasanya ditanyakan pembeli sebelum pesanan pertama. Tidak menemukan jawabannya? Kirimkan pesan kepada kami."
+    },
+    "groups": {
+      "products": "Produk & material",
+      "ordering": "Pemesanan",
+      "shipping": "Pengiriman & pembayaran",
+      "company": "Bekerja sama dengan kami"
+    },
+    "items": {
+      "material": {
+        "group": "products",
+        "q": "Dari material apa produk Anda dibuat?",
+        "a": "Sebagian besar produk kami dibuat dari kayu sisa (akar, tunggak, dan ranting) dan kayu daur ulang (balok tua dan potongan kayu). Kebanyakan jati, dan kami juga memakai kayu trembesi. Kami tidak perlu menebang pohon yang sehat untuk produk kami."
+      },
+      "unique": {
+        "group": "products",
+        "q": "Apakah saya akan menerima produk yang persis sama dengan foto?",
+        "a": "Setiap produk dibuat dari kayu alami, sehingga bentuk, ukuran, dan seratnya unik. Foto kami menunjukkan gayanya; sebelum Anda konfirmasi, kami dapat mengirimkan foto produk yang benar-benar tersedia untuk pesanan Anda."
+      },
+      "outdoor": {
+        "group": "products",
+        "q": "Apakah furniture jati bisa dipakai di luar ruangan?",
+        "a": "Jati berminyak alami serta tahan cuaca dan serangga, sehingga menjadi salah satu kayu terbaik untuk taman dan teras. Jati tanpa finishing perlahan berubah menjadi abu-abu keperakan di luar ruangan; perawatan rutin menjaga warnanya tetap hangat."
+      },
+      "custom": {
+        "group": "ordering",
+        "q": "Apakah Anda menerima pesanan custom?",
+        "a": "Kirimkan sketsa, foto referensi, dan ukuran yang Anda inginkan. Karena kami bekerja dengan akar alami dan kayu bekas, kami mengecek apa yang memungkinkan dengan material yang tersedia dan mengonfirmasinya kepada Anda sebelum produksi."
+      },
+      "process": {
+        "group": "ordering",
+        "q": "Bagaimana cara memesan?",
+        "a": "Pilih produk dari website atau e-katalog kami, kirim permintaan lewat WhatsApp atau formulir kontak, lalu kami mengonfirmasi pilihan, harga, pengemasan, dan pembayaran. Setelah produksi dan pengecekan kualitas, kami memuat dan mengirim kontainer Anda."
+      },
+      "moq": {
+        "group": "ordering",
+        "q": "Berapa minimum pemesanan (MOQ)?",
+        "a": "Minimum pemesanan kami adalah [MOQ]. Hubungi kami jika Anda ingin memulai dengan pesanan percobaan yang lebih kecil."
+      },
+      "leadTime": {
+        "group": "ordering",
+        "q": "Berapa lama waktu produksinya?",
+        "a": "Waktu produksi adalah [PRODUCTION TIME], tergantung jumlah, produk yang dipilih, dan material yang tersedia. Kami mengonfirmasi jadwal pastinya bersama pesanan Anda."
+      },
+      "shipping": {
+        "group": "shipping",
+        "q": "Apakah Anda melayani pengiriman internasional?",
+        "a": "Ya. Kami mengekspor ke Eropa, Amerika Serikat, dan Timur Tengah, serta melayani pembeli di Indonesia. Kami telah mengelola kontainer ekspor sejak 2010. Pelabuhan muat kami adalah [PORT]."
+      },
+      "payment": {
+        "group": "shipping",
+        "q": "Apa syarat pembayaran Anda?",
+        "a": "Syarat pembayaran kami adalah [PAYMENT TERMS]. Semua ketentuan dikonfirmasi secara tertulis sebelum produksi dimulai."
+      },
+      "certificates": {
+        "group": "shipping",
+        "q": "Sertifikat dan dokumen ekspor apa yang bisa Anda sediakan?",
+        "a": "Kami dapat menyediakan [CERTIFICATES]. Beri tahu kami persyaratan negara Anda saat mengirim permintaan."
+      },
+      "visit": {
+        "group": "company",
+        "q": "Bisakah saya mengunjungi workshop Anda?",
+        "a": "Tentu, Anda dipersilakan. Workshop dan display taman kami berada di Dsn. Gupak Warak Rt. 04, Sendangsari, Pajangan, Bantul, Yogyakarta. Mohon hubungi kami terlebih dahulu agar kami bisa menyambut Anda."
+      },
+      "language": {
+        "group": "company",
+        "q": "Bahasa apa yang Anda gunakan untuk berkomunikasi?",
+        "a": "Kami berkomunikasi dengan pembeli dalam bahasa Inggris dan bahasa Indonesia, lewat WhatsApp, email, atau langsung di workshop."
+      }
+    },
+    "ctaTitle": "Masih ada pertanyaan?",
+    "ctaText": "Tim kami membalas secara pribadi lewat WhatsApp dan email."
+  },
+  "contact": {
+    "hero": {
+      "label": "Kontak",
+      "title": "Mari bicarakan pesanan Anda berikutnya",
+      "subtitle": "Kirim permintaan, minta e-katalog, atau chat dengan kami di WhatsApp. Kami membalas secara pribadi."
+    },
+    "formLabel": "Permintaan",
+    "formTitle": "Kirimkan permintaan Anda",
+    "infoTitle": "Detail kontak",
+    "address": "Alamat workshop",
+    "contactPersons": "Narahubung",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "hours": "Jam operasional",
+    "mapTitle": "Peta lokasi workshop Teak & Deko Indonesia di Sendangsari, Pajangan, Bantul",
+    "openMaps": "Buka di Google Maps",
+    "visitTitle": "Kunjungi workshop & gudang kami",
+    "visitText": "Datang dan lihat langsung stok serta display taman kami. Mohon kirim pesan sebelum berkunjung."
+  },
+  "requestCatalog": {
+    "hero": {
+      "label": "E-katalog",
+      "title": "Minta e-katalog kami",
+      "subtitle": "Dapatkan meja, stool, dan dekorasi terbaru kami dalam satu PDF, dengan foto produk yang tersedia. Gratis untuk pembeli grosir."
+    },
+    "benefitsTitle": "Yang akan Anda terima",
+    "benefits": {
+      "b1": "Lini Meja & Stool serta Dekorasi kami lengkap dengan foto",
+      "b2": "Kode item dan ukuran untuk memudahkan penawaran",
+      "b3": "Informasi tentang material, pengemasan, dan ekspor",
+      "b4": "Balasan pribadi dari tim kami di Yogyakarta"
+    },
+    "orWhatsApp": "Lebih suka WhatsApp? Minta e-katalog langsung lewat chat."
+  },
+  "form": {
+    "intent": "Saya ingin",
+    "intents": {
+      "quote": "Minta penawaran",
+      "catalog": "Minta e-katalog",
+      "question": "Bertanya"
+    },
+    "name": "Nama lengkap",
+    "company": "Perusahaan",
+    "country": "Negara",
+    "email": "Email",
+    "phone": "Telepon / WhatsApp",
+    "product": "Produk",
+    "message": "Apa yang Anda cari?",
+    "optional": "opsional",
+    "placeholders": {
+      "name": "Nama lengkap Anda",
+      "company": "Nama perusahaan atau toko",
+      "country": "mis. Jerman",
+      "email": "nama@perusahaan.com",
+      "phone": "+62 …",
+      "message": "Sebutkan produk, jumlah, dan tujuan pengiriman yang Anda inginkan."
+    },
+    "productMessage": "Saya ingin penawaran untuk {product}. Jumlah: ",
+    "catalogMessage": "Mohon kirimkan e-katalog Anda.",
+    "submit": {
+      "quote": "Kirim permintaan",
+      "catalog": "Minta e-katalog",
+      "question": "Kirim pesan"
+    },
+    "sending": "Mengirim…",
+    "privacy": "Kami hanya memakai data Anda untuk menjawab permintaan Anda.",
+    "errors": {
+      "required": "Mohon isi kolom ini.",
+      "email": "Mohon masukkan alamat email yang valid.",
+      "tooLong": "Teks ini terlalu panjang.",
+      "tooShort": "Mohon tulis sedikit lebih banyak.",
+      "server": "Maaf, pesan Anda gagal dikirim. Silakan coba lagi atau hubungi kami lewat WhatsApp.",
+      "notConfigured": "Pengiriman online sedang tidak tersedia. Silakan email ke teakdekoindo@gmail.com atau chat via WhatsApp."
+    },
+    "success": {
+      "title": "Terima kasih — permintaan Anda sudah terkirim",
+      "text": "Kami akan membalas lewat email atau WhatsApp secepatnya. Untuk jawaban lebih cepat, Anda juga bisa chat dengan kami sekarang.",
+      "again": "Kirim permintaan lain"
+    }
+  },
+  "footer": {
+    "about": "Furniture dan dekorasi natural dari kayu sisa dan kayu daur ulang jati serta trembesi. Dibuat di Bantul, Yogyakarta, untuk pembeli di Eropa, Amerika Serikat, Timur Tengah, dan Indonesia.",
+    "explore": "Jelajahi",
+    "collections": "Koleksi",
+    "contact": "Kontak",
+    "tagline": "Dukung bumi dengan membeli produk kayu daur ulang dan kayu sisa.",
+    "rights": "© {year} CV. Teak & Deko Indonesia. Hak cipta dilindungi.",
+    "established": "Berdiri 19 April 2016"
+  },
+  "notFound": {
+    "label": "404",
+    "title": "Halaman tidak ditemukan",
+    "text": "Halaman ini mungkin sudah dipindahkan. Coba lihat koleksi kami atau hubungi kami.",
+    "home": "Kembali ke beranda"
+  }
+}

@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "siteName": "CV. Teak & Deko Indonesia",
+    "titleTemplate": "%s | CV. Teak & Deko Indonesia",
+    "defaultDescription": "Indonesian teak furniture manufacturer in Yogyakarta. Natural tables, stools and decoration made from rest and recycled teak and trembesi wood, exported to Europe, the USA and the Middle East.",
+    "home": {
+      "title": "Indonesian Teak Furniture Manufacturer | Recycled Wood Furniture Export — Teak & Deko",
+      "description": "CV. Teak & Deko Indonesia makes natural furniture and decoration from rest and recycled teak wood in Bantul, Yogyakarta. Eco-friendly furniture supplier exporting to Europe, the USA and the Middle East."
+    },
+    "about": {
+      "title": "About Us — Eco-friendly Furniture Supplier in Yogyakarta",
+      "description": "Since 2016 CV. Teak & Deko Indonesia has turned discarded teak roots, stumps and offcuts into natural furniture. Read our story, mission, vision and history from 2010 to today."
+    },
+    "collections": {
+      "title": "Collections — Natural Teak Furniture & Decoration",
+      "description": "Browse our wholesale collections of teak root tables, stools, consoles, mirrors, lanterns, bowls, vases and sculptures, handmade from rest and recycled wood in Indonesia."
+    },
+    "howToOrder": {
+      "title": "How to Order — Wholesale Teak Furniture from Indonesia",
+      "description": "Order natural teak furniture in three steps: choose your pieces or request our e-catalog, send your inquiry by WhatsApp or email, then confirm the details and we ship your container."
+    },
+    "exportInfo": {
+      "title": "Export Information — Recycled Wood Furniture Export from Indonesia",
+      "description": "Export details for international buyers: markets, materials, MOQ, port of loading, payment terms, certificates, shipping and container information from CV. Teak & Deko Indonesia."
+    },
+    "gallery": {
+      "title": "Gallery — Workshop, Products & Garden Display",
+      "description": "Photos from our workshop in Bantul, Yogyakarta: teak root furniture, decoration, wood stock, our garden display and exhibitions."
+    },
+    "faq": {
+      "title": "FAQ — Teak Furniture Wholesale Questions",
+      "description": "Answers about materials, ordering, MOQ, shipping, payment terms, custom orders, production time, certificates and visiting our teak furniture workshop in Yogyakarta."
+    },
+    "contact": {
+      "title": "Contact — Request a Quote or E-catalog",
+      "description": "Contact CV. Teak & Deko Indonesia in Bantul, Yogyakarta. Send an inquiry, request our e-catalog or chat on WhatsApp with Agung Edi Dahono or Ely Ratna Wulandari."
+    },
+    "requestCatalog": {
+      "title": "Request Our E-catalog",
+      "description": "Request the CV. Teak & Deko Indonesia e-catalog with our current teak root tables, stools and decoration. Free for trade buyers, sent by email or WhatsApp."
+    },
+    "product": {
+      "description": "{name} — {summary} Handmade by CV. Teak & Deko Indonesia in Yogyakarta. Ask for a wholesale quote."
+    },
+    "category": {
+      "tables-and-stools": {
+        "title": "Teak Tables & Stools Wholesale — Root & Recycled Wood",
+        "description": "Teak table wholesale from Indonesia: root block coffee tables, teak block stools, consoles, benches and side tables made from rest and recycled teak wood."
+      },
+      "decoration": {
+        "title": "Teak Wood Decoration Wholesale — Mirrors, Lanterns & Bowls",
+        "description": "Natural teak decoration from Indonesia: root ring sculptures, root frame mirrors, teak lanterns, vases, carved bowls, pedestals and candle holders."
+      }
+    },
+    "notFound": {
+      "title": "Page not found"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "collections": "Collections",
+    "about": "About",
+    "howToOrder": "How to order",
+    "exportInfo": "Export info",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "requestCatalog": "Request e-catalog",
+    "mainLabel": "Main navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "askQuote": "Ask for a quote",
+    "viewDetails": "View details",
+    "viewCollection": "View collection",
+    "requestCatalog": "Request e-catalog",
+    "chatWhatsApp": "Chat on WhatsApp",
+    "contactUs": "Contact us",
+    "learnMore": "Learn more",
+    "bestSeller": "Best seller",
+    "logoAlt": "CV. Teak & Deko Indonesia logo",
+    "language": "Language",
+    "switchTo": "Switch language to {language}",
+    "languages": {
+      "en": "English",
+      "id": "Bahasa Indonesia"
+    },
+    "themeLight": "Switch to light mode",
+    "themeDark": "Switch to dark mode",
+    "breadcrumb": "Breadcrumb",
+    "productAlt": "{name} — handmade from natural teak wood by CV. Teak & Deko Indonesia",
+    "productsCount": "{count, plural, one {# piece} other {# pieces}}"
+  },
+  "whatsapp": {
+    "defaultMessage": "Hi, I'm interested in your products. Can you send me the e-catalog?",
+    "productMessage": "Hi, I'm interested in {product}. Can you send me more details?",
+    "floatingLabel": "Chat with us on WhatsApp"
+  },
+  "home": {
+    "hero": {
+      "label": "Natural furniture from Yogyakarta, Indonesia",
+      "title": "Precious furniture from wood that was thrown away.",
+      "subtitle": "We turn teak roots, stumps and recycled timber — wood that would be dumped or burned — into tables, stools and decoration for buyers in Europe, the USA and the Middle East.",
+      "ctaPrimary": "Explore collections",
+      "ctaSecondary": "Request e-catalog",
+      "scroll": "Scroll to discover",
+      "imageAlt": "The Teak & Deko Indonesia workshop yard in Bantul with thatched roofs and stacks of reclaimed teak wood"
+    },
+    "trust": {
+      "label": "Why buyers work with us",
+      "items": {
+        "export": {
+          "title": "Export-ready",
+          "text": "Container shipments to Europe, the USA and the Middle East since 2010."
+        },
+        "material": {
+          "title": "Rest & recycled wood",
+          "text": "Teak roots, stumps and reclaimed timber — not freshly felled trees."
+        },
+        "eco": {
+          "title": "Eco-friendly & fair trade",
+          "text": "Income for collectors, truck drivers, workers and creators."
+        },
+        "visit": {
+          "title": "Visit the workshop",
+          "text": "See our stock and garden display in Bantul, Yogyakarta."
+        }
+      }
+    },
+    "about": {
+      "label": "About us",
+      "title": "A workshop in Bantul where useless wood becomes precious",
+      "text1": "CV. Teak & Deko Indonesia buys and produces natural furniture and decoration — tables, chairs, wall decoration, garden and interior pieces — for export to Europe, the USA, the Middle East and for the local Indonesian market.",
+      "text2": "Most of our material is rest wood and recycled wood: mostly teak, and trembesi as well. Every root, stump and offcut has its own shape, so every piece that leaves our workshop is one of a kind.",
+      "cta": "Read our story",
+      "signAlt": "Carved wooden Teak & Deko Indonesia sign among tropical plants at the workshop entrance",
+      "workshopAlt": "Open workshop shed with reclaimed teak planks and root pieces leaning against the wall",
+      "since": "Officially founded",
+      "sinceDate": "19 April 2016"
+    },
+    "collections": {
+      "label": "Collections",
+      "title": "Two ranges, hundreds of unique pieces",
+      "intro": "Start with the range that fits your shop or project. Every item can be quoted individually or combined into one container."
+    },
+    "story": {
+      "label": "From waste to wonder",
+      "title": "The journey of a teak root",
+      "steps": {
+        "collect": {
+          "title": "Collected, not cut",
+          "text": "Teak roots, old stumps and timber offcuts are gathered by local collectors — material that would otherwise be dumped, burned or sold as firewood.",
+          "imageAlt": "Rows of solid teak root blocks drying in the workshop warehouse"
+        },
+        "workshop": {
+          "title": "Brought to our workshop",
+          "text": "Truck drivers bring the wood to our yard in Pajangan, Bantul, where it is sorted by size, shape and character and left to dry.",
+          "imageAlt": "Workshop in Bantul with reclaimed teak planks and roots stacked outside"
+        },
+        "create": {
+          "title": "Shaped by hand",
+          "text": "Our creators clean, cut, sand and assemble each piece by hand, keeping the natural cracks, grain and form that make it unique.",
+          "imageAlt": "Teak console table with a legs frame made from natural teak branches"
+        },
+        "ship": {
+          "title": "Shipped to your door",
+          "text": "Finished pieces are packed and loaded into containers for buyers in Europe, the USA and the Middle East — and shown at exhibitions along the way.",
+          "imageAlt": "Exhibition booth with teak tables, benches and branch decoration by Teak & Deko"
+        }
+      }
+    },
+    "markets": {
+      "label": "Exporting worldwide",
+      "title": "Trusted by buyers on three continents",
+      "stats": {
+        "since": { "value": "2010", "label": "Managing export containers since" },
+        "founded": { "value": "2016", "label": "CV. Teak & Deko Indonesia founded" },
+        "markets": { "value": "4", "label": "Markets: Europe, USA, Middle East, Indonesia" },
+        "woods": { "value": "2", "label": "Main woods: teak and trembesi" }
+      }
+    },
+    "bestSellers": {
+      "label": "Best sellers",
+      "title": "Pieces our buyers reorder",
+      "cta": "See all products"
+    },
+    "ctaBand": {
+      "title": "Support earth — buy recycled wood products.",
+      "text": "Come and visit our warehouse, or contact us for our products. We reply on WhatsApp and email.",
+      "primary": "Request e-catalog",
+      "secondary": "Chat on WhatsApp"
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "About us",
+      "title": "We give discarded wood a second life",
+      "subtitle": "CV. Teak & Deko Indonesia is a natural furniture and decoration company in Bantul, Yogyakarta, founded on 19 April 2016.",
+      "imageAlt": "Teak & Deko workshop courtyard with thatched huts and reclaimed wood"
+    },
+    "story": {
+      "label": "Our story",
+      "title": "Natural furniture for export since 2016",
+      "p1": "CV. Teak & Deko Indonesia is a company that buys and produces natural furniture and decoration: tables, chairs, wall decoration, garden decoration and interior decoration. We export to Europe, the USA and the Middle East, and also serve the local Indonesian market.",
+      "p2": "Before the company was founded, our team spent six years managing buyers' containers shipped from Indonesia to their own countries. That experience — knowing what international buyers need, how to load a container and how to keep quality consistent — is the foundation of everything we do today.",
+      "p3": "Most of our material is rest wood and recycled wood. Most of it is teak, and we use trembesi wood as well. Instead of using this wood the way it is, or letting it end as firewood, we make useless wood become precious wood by creating many products from it.",
+      "gardenAlt": "Garden display of teak root furniture under tropical trees with a thatched gazebo"
+    },
+    "mission": {
+      "label": "What drives us",
+      "title": "Mission, vision and values",
+      "mission": {
+        "title": "Mission",
+        "text": "Reduce global warming and reduce forest destruction."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "Running a business with an eco-friendly concept and fair trade."
+      },
+      "values": {
+        "title": "Values",
+        "text": "Our products use rest and recycled wood that would be dumped, burned or used as firewood. Turning it into precious products generates income for the people who collect the material, the truck drivers, the workers and the creators."
+      }
+    },
+    "timeline": {
+      "label": "History",
+      "title": "From managing containers to our own brand",
+      "items": {
+        "y2010": {
+          "year": "2010 – 2016",
+          "title": "Managing buyer containers",
+          "text": "Managing buyers' containers sent from Indonesia to their countries."
+        },
+        "y2016": {
+          "year": "19 April 2016",
+          "title": "CV. Teak & Deko Indonesia begins",
+          "text": "The company is officially founded in Bantul, Yogyakarta."
+        },
+        "y2016b": {
+          "year": "2016 – 2020",
+          "title": "Branch company for a German buyer",
+          "text": "Managing a buyer from Germany as a branch company."
+        },
+        "y2020": {
+          "year": "2020 – 2022",
+          "title": "Global pandemic",
+          "text": "Covid-19 stops most activity; we keep working on small orders."
+        },
+        "y2022": {
+          "year": "2022 – present",
+          "title": "Buyers in Europe and the Middle East",
+          "text": "Working for a few buyers from Europe and the Middle East — with the spirit to keep creating, working and making the best."
+        }
+      }
+    },
+    "materials": {
+      "label": "Materials",
+      "title": "The wood we work with",
+      "intro": "We do not need to fell healthy trees. Our raw material is what is left behind.",
+      "items": {
+        "rest": {
+          "title": "Rest wood",
+          "text": "Roots, stumps and branches left in the ground or the field after harvest. Their twisted, organic forms become sculptural tables, stools and decoration."
+        },
+        "recycled": {
+          "title": "Recycled wood",
+          "text": "Old beams, planks and offcuts given a new purpose as tabletops, consoles, trays and candle holders — with the patina of their first life."
+        },
+        "teak": {
+          "title": "Teak",
+          "text": "Most of our pieces are teak (Tectona grandis): dense, naturally oily and resistant to weather and insects, ideal for indoor and outdoor use."
+        },
+        "trembesi": {
+          "title": "Trembesi",
+          "text": "Trembesi (rain tree, Samanea saman) has wide, dramatic slabs with contrasting light and dark grain, used for statement tables and consoles."
+        }
+      }
+    },
+    "process": {
+      "label": "Production",
+      "title": "Inside our workshop",
+      "text": "From sorting the raw stock to the final sanding, every step happens at our workshop in Pajangan, Bantul. Buyers are welcome to visit, see the stock and choose pieces in person.",
+      "photos": {
+        "stock": "Sorted teak root blocks waiting in the warehouse",
+        "yard": "Raw reclaimed wood stored in the workshop yard",
+        "exhibition": "Our pieces presented at an exhibition booth"
+      }
+    }
+  },
+  "collections": {
+    "hero": {
+      "label": "Collections",
+      "title": "Natural furniture & decoration",
+      "subtitle": "Every piece is made from rest and recycled wood, so no two are exactly alike. Browse by range, then ask for a quote on the pieces you like."
+    },
+    "rangesLabel": "Our ranges",
+    "rangesTitle": "Choose a collection",
+    "allLabel": "All products",
+    "allTitle": "Browse every piece",
+    "moreSoon": "Garden and custom ranges coming soon — ask us about current stock.",
+    "empty": "No pieces match these filters yet. Try another filter or ask us for current stock."
+  },
+  "categories": {
+    "tables-and-stools": {
+      "name": "Tables & Stools",
+      "short": "Root block coffee tables, teak block stools, consoles, benches and side tables.",
+      "long": "Solid teak root blocks, recycled beams and slabs on natural branch bases. Each table and stool is shaped by the wood itself — heavy, honest pieces that anchor a living room, lobby or terrace.",
+      "imageAlt": "Teak root block coffee table made from interlocking pieces of reclaimed teak root"
+    },
+    "decoration": {
+      "name": "Decoration",
+      "short": "Root ring sculptures, mirrors, teak lanterns, vases, bowls, pedestals and candle holders.",
+      "long": "Sculptural decoration made from teak roots and offcuts: root frame mirrors, lanterns, hollowed bowls, vases, pedestals and candle holders that bring warmth and texture to interiors and gardens.",
+      "imageAlt": "Round teak root ring sculpture on a black metal base"
+    }
+  },
+  "filters": {
+    "label": "Filter products",
+    "type": "Type",
+    "material": "Material",
+    "allMaterials": "All materials",
+    "groups": {
+      "all": "All",
+      "tables-and-stools": "Tables & Stools",
+      "mirrors": "Mirrors",
+      "lighting": "Lanterns & Lighting",
+      "bowls-vases": "Bowls & Vases",
+      "sculpture": "Sculpture"
+    },
+    "types": {
+      "all": "All",
+      "coffee-table": "Coffee tables",
+      "side-table": "Side tables",
+      "console": "Consoles",
+      "bench": "Benches",
+      "stool": "Stools",
+      "mirror": "Mirrors",
+      "lantern": "Lanterns",
+      "candle-holder": "Candle holders",
+      "bowl": "Bowls",
+      "vase": "Vases",
+      "tray": "Trays",
+      "sculpture": "Sculptures",
+      "pedestal": "Pedestals"
+    },
+    "materials": {
+      "teak-root": "Teak root",
+      "recycled-teak": "Recycled teak",
+      "teak-branch": "Teak branches",
+      "trembesi": "Trembesi"
+    }
+  },
+  "category": {
+    "catalogTitle": "Request the e-catalog for this range",
+    "catalogText": "Get the full {category} range with current stock photos in one PDF — free for trade buyers.",
+    "catalogCta": "Request e-catalog",
+    "otherRange": "Also explore",
+    "help": "Can't find what you need? We have more pieces in stock than we can photograph."
+  },
+  "product": {
+    "specs": "Specifications",
+    "itemCode": "Item code",
+    "dimensions": "Dimensions",
+    "material": "Material",
+    "category": "Category",
+    "origin": "Origin",
+    "originValue": "Bantul, Yogyakarta, Indonesia",
+    "uniqueNote": "Made from natural rest and recycled wood: every piece is unique, and shape, size and grain vary from the photo.",
+    "askQuote": "Ask for a quote",
+    "whatsapp": "Ask on WhatsApp",
+    "inquiryLabel": "Quote request",
+    "inquiryTitle": "Ask for a quote on this piece",
+    "inquiryText": "Tell us the quantity and your destination country. We reply with price, availability and shipping options.",
+    "related": "Related products",
+    "relatedLabel": "You may also like",
+    "gallery": "Product photos",
+    "showImage": "Show image {number}"
+  },
+  "howToOrder": {
+    "hero": {
+      "label": "How to order",
+      "title": "From first look to full container in three steps",
+      "subtitle": "No shopping cart, no complicated portal. Talk directly to the people who make your furniture."
+    },
+    "stepsLabel": "The process",
+    "stepsTitle": "How ordering works",
+    "steps": {
+      "choose": {
+        "title": "Choose your pieces",
+        "text": "Browse our collections online, or request our e-catalog with current stock. Note the items you like, or send us photos of what you are looking for.",
+        "cta": "Browse collections"
+      },
+      "inquire": {
+        "title": "Send your inquiry",
+        "text": "Message us on WhatsApp or send the inquiry form by email: tell us the items, quantities and destination country. We reply with prices, availability and options.",
+        "cta": "Send an inquiry"
+      },
+      "ship": {
+        "title": "Confirm and ship",
+        "text": "We confirm the details together — selection, sizes, finishing, packing and payment. After production and quality check, your container is loaded and shipped.",
+        "cta": "Read export info"
+      }
+    },
+    "faqLabel": "Good to know",
+    "faqTitle": "Questions about ordering",
+    "faq": {
+      "q1": {
+        "q": "Can I order a single piece?",
+        "a": "We work mainly with trade buyers and container shipments. Our minimum order is [MOQ]. Contact us with what you need and we will tell you what is possible."
+      },
+      "q2": {
+        "q": "Can I see the actual piece before buying?",
+        "a": "Yes. Because every piece is unique, we can send you photos of the actual items in stock before you confirm. You are also welcome to visit our workshop in Bantul."
+      },
+      "q3": {
+        "q": "Can I combine tables and decoration in one container?",
+        "a": "Ask us about combining items from both ranges in one shipment. We help plan the mix so the container space is used well."
+      },
+      "q4": {
+        "q": "How do I pay?",
+        "a": "Our payment terms are [PAYMENT TERMS]. Payment details are confirmed in writing together with your final order."
+      }
+    },
+    "ctaTitle": "Ready to start?",
+    "ctaText": "Send us your wish list or ask for the e-catalog. We reply on WhatsApp and email."
+  },
+  "exportInfo": {
+    "hero": {
+      "label": "Export info",
+      "title": "Information for international buyers",
+      "subtitle": "Everything you need to plan an order of natural teak furniture and decoration from Indonesia."
+    },
+    "marketsLabel": "Markets",
+    "marketsTitle": "Where our furniture goes",
+    "markets": {
+      "europe": {
+        "title": "Europe",
+        "text": "Our longest-standing market, including years as a branch company for a German buyer."
+      },
+      "usa": { "title": "USA", "text": "Natural wood furniture and decoration for American shops and projects." },
+      "middleEast": {
+        "title": "Middle East",
+        "text": "Current buyers in the Middle East, for interiors, hospitality and gardens."
+      },
+      "indonesia": {
+        "title": "Indonesia",
+        "text": "We also serve local buyers, designers and projects across Indonesia."
+      }
+    },
+    "materialsLabel": "Main materials",
+    "materialsTitle": "Teak, trembesi, rest & recycled wood",
+    "materialsText": "Most of our material is rest wood (roots, stumps, branches) and recycled wood (old beams and offcuts) — mostly teak, and trembesi as well.",
+    "termsLabel": "Trade terms",
+    "termsTitle": "Order & shipping details",
+    "terms": {
+      "moq": { "label": "Minimum order (MOQ)", "value": "[MOQ]" },
+      "port": { "label": "Port of loading", "value": "[PORT]" },
+      "payment": { "label": "Payment terms", "value": "[PAYMENT TERMS]" },
+      "certificates": { "label": "Certificates & documents", "value": "[CERTIFICATES]" },
+      "incoterms": { "label": "Incoterms", "value": "[INCOTERMS]" },
+      "leadTime": { "label": "Production time", "value": "[PRODUCTION TIME]" }
+    },
+    "shippingLabel": "Shipping",
+    "shippingTitle": "Containers and packing",
+    "shippingText": "We have managed export containers since 2010. Pieces are packed to protect natural edges and roots during the long sea journey.",
+    "containers": {
+      "c20": {
+        "title": "20ft container",
+        "text": "About 33 m³ — suitable for a first order or a mixed selection of decoration and smaller tables."
+      },
+      "c40": {
+        "title": "40ft container",
+        "text": "About 67 m³ — the most common choice for regular furniture orders."
+      },
+      "c40hc": {
+        "title": "40ft high cube",
+        "text": "About 76 m³ — extra height for tall pieces such as root sculptures and stacked tables."
+      }
+    },
+    "containerNote": "Volumes are typical internal capacities; how much fits depends on the mix of pieces. We plan the loading with you.",
+    "ctaTitle": "Plan your shipment with us",
+    "ctaText": "Send your destination port and the pieces you are interested in, and we will prepare a quotation."
+  },
+  "gallery": {
+    "hero": {
+      "label": "Gallery",
+      "title": "Inside Teak & Deko",
+      "subtitle": "Our workshop, our stock, our garden display and the pieces we make — straight from Bantul, Yogyakarta."
+    },
+    "filters": {
+      "all": "All",
+      "products": "Products",
+      "workshop": "Workshop",
+      "display": "Garden & exhibition"
+    },
+    "photos": {
+      "sign": {
+        "alt": "Carved wooden sign reading Teak & Deko Indonesia at the workshop",
+        "caption": "Welcome to Teak & Deko"
+      },
+      "yard": {
+        "alt": "Workshop courtyard with thatched huts, furniture and reclaimed wood",
+        "caption": "Our workshop yard in Bantul"
+      },
+      "stock": {
+        "alt": "Workshop shed with reclaimed teak planks and root pieces",
+        "caption": "Raw wood stock"
+      },
+      "blocks": {
+        "alt": "Rows of teak root block stools stored in the warehouse",
+        "caption": "Teak root blocks in the warehouse"
+      },
+      "garden": {
+        "alt": "Garden display of teak root tables and decoration under tropical trees",
+        "caption": "Our garden display"
+      },
+      "exhibition": {
+        "alt": "Exhibition booth with teak tables, benches and branch decoration",
+        "caption": "At the exhibition"
+      }
+    },
+    "lightbox": {
+      "label": "Image viewer",
+      "close": "Close",
+      "previous": "Previous image",
+      "next": "Next image",
+      "zoomIn": "Zoom in",
+      "zoomOut": "Zoom out",
+      "open": "Open image: {caption}",
+      "counter": "{current} of {total}"
+    }
+  },
+  "faq": {
+    "hero": {
+      "label": "FAQ",
+      "title": "Frequently asked questions",
+      "subtitle": "Everything buyers usually ask before their first order. Can't find your answer? Send us a message."
+    },
+    "groups": {
+      "products": "Products & materials",
+      "ordering": "Ordering",
+      "shipping": "Shipping & payment",
+      "company": "Working with us"
+    },
+    "items": {
+      "material": {
+        "group": "products",
+        "q": "What materials are your products made from?",
+        "a": "Most of our products are made from rest wood (roots, stumps and branches) and recycled wood (old beams and offcuts). Most of it is teak, and we also use trembesi wood. We do not need to cut down healthy trees for our products."
+      },
+      "unique": {
+        "group": "products",
+        "q": "Will I receive exactly the piece in the photo?",
+        "a": "Every piece is made from natural wood, so shape, size and grain are unique. Our photos show the style; before you confirm, we can send photos of the actual pieces available for your order."
+      },
+      "outdoor": {
+        "group": "products",
+        "q": "Can teak furniture be used outdoors?",
+        "a": "Teak is naturally oily and resistant to weather and insects, which makes it one of the best woods for gardens and terraces. Untreated teak slowly turns silver-grey outdoors; regular care keeps its warm colour."
+      },
+      "custom": {
+        "group": "ordering",
+        "q": "Do you accept custom orders?",
+        "a": "Send us a sketch, a reference photo and your target size. Because we work with natural roots and reclaimed wood, we check what is possible with the material in stock and confirm with you before production."
+      },
+      "process": {
+        "group": "ordering",
+        "q": "How do I place an order?",
+        "a": "Choose your pieces from the website or our e-catalog, send us an inquiry by WhatsApp or the contact form, and we confirm the selection, price, packing and payment. After production and quality check we load and ship your container."
+      },
+      "moq": {
+        "group": "ordering",
+        "q": "What is your minimum order quantity (MOQ)?",
+        "a": "Our minimum order quantity is [MOQ]. Contact us if you would like to start with a smaller trial order."
+      },
+      "leadTime": {
+        "group": "ordering",
+        "q": "How long does production take?",
+        "a": "Production time is [PRODUCTION TIME], depending on the quantity, the pieces selected and the material in stock. We confirm the exact schedule with your order."
+      },
+      "shipping": {
+        "group": "shipping",
+        "q": "Do you ship internationally?",
+        "a": "Yes. We export to Europe, the USA and the Middle East, and also supply buyers within Indonesia. We have managed export containers since 2010. Our port of loading is [PORT]."
+      },
+      "payment": {
+        "group": "shipping",
+        "q": "What are your payment terms?",
+        "a": "Our payment terms are [PAYMENT TERMS]. All terms are confirmed in writing before production starts."
+      },
+      "certificates": {
+        "group": "shipping",
+        "q": "Which certificates and export documents can you provide?",
+        "a": "We can provide [CERTIFICATES]. Let us know the requirements of your country when you send your inquiry."
+      },
+      "visit": {
+        "group": "company",
+        "q": "Can I visit your workshop?",
+        "a": "Yes, you are welcome. Our workshop and garden display are at Dsn. Gupak Warak Rt. 04, Sendangsari, Pajangan, Bantul, Yogyakarta. Please contact us beforehand so we can welcome you."
+      },
+      "language": {
+        "group": "company",
+        "q": "Which languages do you communicate in?",
+        "a": "We communicate with buyers in English and Indonesian, by WhatsApp, email or in person at the workshop."
+      }
+    },
+    "ctaTitle": "Still have a question?",
+    "ctaText": "Our team replies personally on WhatsApp and email."
+  },
+  "contact": {
+    "hero": {
+      "label": "Contact",
+      "title": "Let's talk about your next order",
+      "subtitle": "Send an inquiry, request our e-catalog or chat with us on WhatsApp. We reply personally."
+    },
+    "formLabel": "Inquiry",
+    "formTitle": "Send us your inquiry",
+    "infoTitle": "Contact details",
+    "address": "Workshop address",
+    "contactPersons": "Contact persons",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "hours": "Operating hours",
+    "mapTitle": "Map showing the Teak & Deko Indonesia workshop in Sendangsari, Pajangan, Bantul",
+    "openMaps": "Open in Google Maps",
+    "visitTitle": "Visit our workshop & warehouse",
+    "visitText": "Come and see our stock and garden display in person. Please message us before your visit."
+  },
+  "requestCatalog": {
+    "hero": {
+      "label": "E-catalog",
+      "title": "Request our e-catalog",
+      "subtitle": "Get our current tables, stools and decoration in one PDF, with photos of pieces in stock. Free for trade buyers."
+    },
+    "benefitsTitle": "What you'll receive",
+    "benefits": {
+      "b1": "Our Tables & Stools and Decoration ranges with photos",
+      "b2": "Item codes and sizes for easy quotation",
+      "b3": "Information about materials, packing and export",
+      "b4": "A personal reply from our team in Yogyakarta"
+    },
+    "orWhatsApp": "Prefer WhatsApp? Ask for the e-catalog directly in a chat."
+  },
+  "form": {
+    "intent": "I would like to",
+    "intents": {
+      "quote": "Request a quote",
+      "catalog": "Request e-catalog",
+      "question": "Ask a question"
+    },
+    "name": "Full name",
+    "company": "Company",
+    "country": "Country",
+    "email": "Email",
+    "phone": "Phone / WhatsApp",
+    "product": "Product",
+    "message": "What are you looking for?",
+    "optional": "optional",
+    "placeholders": {
+      "name": "Your full name",
+      "company": "Company or shop name",
+      "country": "e.g. Germany",
+      "email": "name@company.com",
+      "phone": "+49 …",
+      "message": "Tell us the pieces, quantities and destination you have in mind."
+    },
+    "productMessage": "I would like a quote for {product}. Quantity: ",
+    "catalogMessage": "Please send me your e-catalog.",
+    "submit": {
+      "quote": "Send inquiry",
+      "catalog": "Request e-catalog",
+      "question": "Send message"
+    },
+    "sending": "Sending…",
+    "privacy": "We only use your details to answer your inquiry.",
+    "errors": {
+      "required": "Please fill in this field.",
+      "email": "Please enter a valid email address.",
+      "tooLong": "This text is too long.",
+      "tooShort": "Please write a few more words.",
+      "server": "Sorry, your message could not be sent. Please try again or contact us on WhatsApp.",
+      "notConfigured": "Online sending is not available right now. Please email us at teakdekoindo@gmail.com or chat on WhatsApp."
+    },
+    "success": {
+      "title": "Thank you — your inquiry is on its way",
+      "text": "We will reply by email or WhatsApp as soon as possible. For a faster answer, you can also chat with us now.",
+      "again": "Send another inquiry"
+    }
+  },
+  "footer": {
+    "about": "Natural furniture and decoration from rest and recycled teak and trembesi wood. Made in Bantul, Yogyakarta, for buyers in Europe, the USA, the Middle East and Indonesia.",
+    "explore": "Explore",
+    "collections": "Collections",
+    "contact": "Contact",
+    "tagline": "Support earth with buying recycled and rest wood products.",
+    "rights": "© {year} CV. Teak & Deko Indonesia. All rights reserved.",
+    "established": "Established 19 April 2016"
+  },
+  "notFound": {
+    "label": "404",
+    "title": "This page could not be found",
+    "text": "The page may have moved. Try our collections or get in touch with us.",
+    "home": "Back to home"
+  }
+}
