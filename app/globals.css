@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light mode (default) — RGB channels so Tailwind opacity modifiers work */
+    --canvas: 255 255 255; /* #FFFFFF */
+    --surface: 247 244 238; /* #F7F4EE */
+    --ink: 26 25 23; /* #1A1917 */
+    --muted: 107 102 92; /* #6B665C */
+    --line: 226 221 211; /* #E2DDD3 */
+    --accent-text: 142 43 37; /* #8E2B25 */
+    color-scheme: light;
+  }
+
+  .dark {
+    --canvas: 17 18 16; /* #111210 */
+    --surface: 28 27 24; /* #1C1B18 */
+    --ink: 232 227 216; /* #E8E3D8 */
+    --muted: 154 148 136; /* #9A9488 */
+    --line: 52 50 45;
+    /* Terracotta is too dark for text on dark backgrounds; a lighter tone keeps 4.5:1 contrast */
+    --accent-text: 232 140 128;
+    color-scheme: dark;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+    scroll-padding-top: 88px;
+  }
+
+  body {
+    @apply bg-canvas font-sans text-body text-ink antialiased;
+  }
+
+  ::selection {
+    background: rgb(142 43 37 / 0.85);
+    color: #fff;
+  }
+
+  :focus-visible {
+    outline: 2px solid rgb(var(--accent-text));
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .section-label {
+    @apply text-xs font-bold uppercase text-accent-text;
+    letter-spacing: 0.12em;
+  }
+
+  .prose-body p + p {
+    @apply mt-5;
+  }
+}
+
+/* Scroll reveal — only hides content when JS is running (html.js) */
+.js [data-reveal] {
+  opacity: 0;
+  transform: translateY(24px);
+  transition:
+    opacity 600ms cubic-bezier(0.22, 1, 0.36, 1),
+    transform 600ms cubic-bezier(0.22, 1, 0.36, 1);
+  transition-delay: var(--reveal-delay, 0ms);
+}
+.js [data-reveal].is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .js [data-reveal] {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Smooth open animation for the FAQ accordion */
+details[open] > .faq-answer {
+  animation: faq-open 260ms ease-out;
+}
+@keyframes faq-open {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
